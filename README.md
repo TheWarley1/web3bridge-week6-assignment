@@ -12,7 +12,7 @@ Users should be able to:
 - View the optimal layout for the section depending on their device's screen size
 
 ### Screenshot
-![](../social-proof-section-master/images/Screenshot%202023-09-11%20165034.png)
+![desktop view](../social-proof-section-master/images/Screenshot%202023-09-11%20165034.png)
 
 
 
